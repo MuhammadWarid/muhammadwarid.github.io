@@ -416,6 +416,17 @@ a.image{
     background-color: #84a1d2;
 }
 
+.bg-purple, .hvr-bg-purple:hover {
+    background-color: #800080;
+}
+
+.bg-red, .hvr-bg-red:hover {
+    background-color: #FF0000;
+}
+
+.bg-orange, .hvr-bg-orange:hover {
+    background-color:   #FFA500;
+}
 .bg-black {
     background-color: #212622;
 }
